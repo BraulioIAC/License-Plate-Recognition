@@ -27,4 +27,4 @@ The software solution presented here resolves the issue of granting access to ve
    git clone https://github.com/your-username/license-plate-recognition.git
 
 ## Usage
-In order to use the software, you have to run the file called reconocerPlacas.py.
+In order to use the software, you have to run the file called [reconocerPlacas.py](#reconocerPlacas.py).
