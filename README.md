@@ -24,7 +24,7 @@ The software solution presented here resolves the issue of granting access to ve
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/license-plate-recognition.git
+   git clone https://github.com/BraulioIAC/license-plate-recognition.git
 
 ## Usage
 In order to use the software, you have to run the file called [reconocerPlacas.py](#reconocerPlacas.py).
